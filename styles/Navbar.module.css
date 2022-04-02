@@ -1,0 +1,16 @@
+/* .nav{
+    background-color: gray;
+} */
+
+.header{
+    background-color: black;
+}
+
+.ul .li {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.ul .li .a{
+    color: white;
+}
