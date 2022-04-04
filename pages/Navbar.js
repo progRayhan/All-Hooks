@@ -23,6 +23,11 @@ function Navbar() {
                                 <a className={styles.a}>useForm</a>
                             </Link>
                         </li>
+                        <li className={styles.li}>
+                            <Link href="/Components/hookPractice">
+                                <a className={styles.a}>hookPractice</a>
+                            </Link>
+                        </li>
                     </ul>
                 </nav>
             </header>
