@@ -14,7 +14,7 @@ function useStates() {
   // return statement
   return (
     <div>
-      <p>Number is {number}</p>
+      <p>Number is {number} ok</p>
       <button onClick={changeNumber}>Increase</button>
     </div>
   )
